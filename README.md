@@ -7,6 +7,6 @@
     <b>Current Text Editor:</b> Visual Studio Code<br>
     <a href="https://scratch.mit.edu/users/IronMan9559/" alt="Scratch" target="_blank">Click here </a>to see my Scratch account.<br>
     <a href="https://twitter.com/johnphilips_995"><img src=https://img.shields.io/twitter/follow/johnphilips_995?style=social" alt="Twitter" target="_blank"></a>
-    <a href="https://github.com/JohnnyPhil22-007"><img src="https://img.shields.io/github/followers/JohnnyPhil22-007?style=social" alt="GitHub" target="_blank"></a>
+    <a href="https://github.com/JohnnyPhil22"><img src="https://img.shields.io/github/followers/JohnnyPhil22?style=social" alt="GitHub" target="_blank"></a>
     <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyPhil22-007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
