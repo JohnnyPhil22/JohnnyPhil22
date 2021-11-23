@@ -1,5 +1,4 @@
 <p align="center">
-    <b>About:</b> Genius, Racer, Coder, Musician, Student, Visionary Thinker, Time Bender, Cyborg, God of Puns, Tony Stark Jr.<br>
     <b>Knows:</b> Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS.<br>
     <b>Learning:</b> C++ and maybe JS...<br>
     <b>Current OS:</b> Ubuntu 20.04.2.0 LTS (Focal Fossa).<br>
