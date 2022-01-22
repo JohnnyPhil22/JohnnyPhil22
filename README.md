@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://twitter.com/johnphilips_995"><img src=https://img.shields.io/twitter/follow/johnphilips_995?style=social" alt="Twitter" target="_blank"></a>
-    <a href="https://github.com/JohnnyPhil22"><img src="https://img.shields.io/github/followers/JohnnyPhil22?style=social" alt="GitHub" target="_blank"></a>
+    <a href="https://github.com/JohnnyPhil22"><img src="https://img.shields.io/github/followers/JohnnyPhil22?style=social" alt="GitHub" target="_blank"></a><br>
     <b>Knows:</b> Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS.<br>
     <b>Learning:</b> C++ and maybe JS...<br>
     <b>Current OS:</b> Ubuntu 20.04.2.0 LTS (Focal Fossa).<br>
