@@ -1,7 +1,7 @@
 <p align="center">
     <a href='https://discordapp.com/users/770572659314130975' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=Discord&logoColor=white&labelColor=5a5a5a&color=5965e3'/></a>
     <a href='https://github.com/JohnnyPhil22' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=000333&color=F5F5F5'/></a>
-    <a href="https://twitter.com/johnphilips_995"><img src="https://img.shields.io/twitter/follow/johnphilips_995?style=social" alt="Twitter" target="_blank"></a>
+    <a href='https://twitter.com/johnnyphil22' target="_blank"><img alt='X' src='https://img.shields.io/badge/X_(Twitter)-100000?style=flat&logo=X&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
     <a href="https://youtube.com/JohnnyPhil22"><img src="https://img.shields.io/youtube/channel/subscribers/UCSXfnk8CFypkorRJXE256UA?style=social" alt="YouTube" target="_blank"></a><br>    
     <b>Knows:</b> Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS, JS.<br>
     <b>Learning:</b> C<br>
