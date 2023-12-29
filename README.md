@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://discordapp.com/users/770572659314130975"><img src="https://img.shields.io/badge/Discord-Add%20Friend%20--%20JP22__007%238263-%235865F2" alt="Discord" target="_blank"></a>
+    <a href='https://discordapp.com/users/770572659314130975' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=Discord&logoColor=white&labelColor=5a5a5a&color=5965e3'/></a>
     <a href='https://github.com/JohnnyPhil22' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=000333&color=F5F5F5'/></a>
     <a href="https://twitter.com/johnphilips_995"><img src="https://img.shields.io/twitter/follow/johnphilips_995?style=social" alt="Twitter" target="_blank"></a>
     <a href="https://youtube.com/JohnnyPhil22"><img src="https://img.shields.io/youtube/channel/subscribers/UCSXfnk8CFypkorRJXE256UA?style=social" alt="YouTube" target="_blank"></a><br>    
