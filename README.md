@@ -3,6 +3,7 @@
     <a href='https://github.com/JohnnyPhil22' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=000333&color=F5F5F5'/></a>
     <a href='https://twitter.com/johnnyphil22' target="_blank"><img alt='X' src='https://img.shields.io/badge/X_(Twitter)-100000?style=flat&logo=X&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
     <a href='https://www.youtube.com/@JP22_007' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube-100000?style=flat&logo=YouTube&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
+</p>
     <b>Knows:</b> Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS, JS.<br>
     <b>Learning:</b> C, C++<br>
     <b>Current OS:</b> Windows 11<br>
