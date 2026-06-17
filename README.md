@@ -1,5 +1,4 @@
 <p align="center">
-    <br>
     <b>Knows: </b>Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS, JS.<br>
     <b>Learning: </b>C++<br>
     <b>Current OS: </b>Windows 11<br>
@@ -8,3 +7,4 @@
     <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnnyPhil22&theme=github_dark" alt="JohnnyPhil22" align = "center"/></p>
     <br><summary><b>Github Stats</b></summary>
     <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyPhil22&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JohnnyPhil22" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyPhil22&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JohnnyPhil22" align = "center"/></p>
+</p>
