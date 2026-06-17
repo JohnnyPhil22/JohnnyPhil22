@@ -1,5 +1,4 @@
 <p align="center">
-    <a href='https://twitter.com/johnnyphil22' target="_blank"><img alt='X' src='https://img.shields.io/badge/X_(Twitter)-100000?style=flat&logo=X&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
     <br>
     <b>Knows: </b>Python (Pygame, NumPy, Tkinter, Turtle, Math), Visual Basic, QBasic, HTML, CSS, JS.<br>
     <b>Learning: </b>C++<br>
